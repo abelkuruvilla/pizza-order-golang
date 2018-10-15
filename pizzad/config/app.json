@@ -1,0 +1,6 @@
+{
+    "development":{
+        "Server":"0.0.0.0:8010",
+        "NotifyFile": "notify.txt"
+    }
+}
