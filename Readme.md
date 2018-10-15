@@ -13,5 +13,7 @@
 5. Build and run by the command: 
     `go build . && ./pizzad`
 
-##### Note
+#### Note
 The test cases written are not working now.
+
+I have added Postman (https://www.getpostman.com/) Test Collection to check the API responses.
